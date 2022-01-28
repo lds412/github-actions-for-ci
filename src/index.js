@@ -1,5 +1,3 @@
-//Adding a comment because the gitbot appears to be slow
-
 import Game from './game.js'
 
 let p1, p2
